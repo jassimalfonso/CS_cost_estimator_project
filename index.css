@@ -305,7 +305,7 @@ scale {
 }
 @media only screen and (max-width: 400px) {
 	body {
-		scale: 0.98;
+		scale: 0.90;
 	}
 	.tabs {
 		scale: 0.80;
