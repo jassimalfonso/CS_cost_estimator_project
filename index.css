@@ -303,4 +303,12 @@ scale {
 		justify-content: center;
 	}
 }
+@media only screen and (max-width: 400px) {
+	body {
+		scale: 0.8;
+	}
+	.tabs {
+		scale: 0.8;
+	}
+}
  
